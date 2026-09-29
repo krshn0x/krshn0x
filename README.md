@@ -3,12 +3,12 @@
 <p align="center"><em>Building beyond the event horizon.</em></p>
 
 <p align="center">
-  <a href="https://svs.gsfc.nasa.gov/vis/a010000/a013300/a013326/BH_AccretionDisk_Sim_Stationary_WebSize.mp4">
-    <img src="assets/space-black-hole.png" width="720" alt="Small tilted black hole amid blue and violet nebulae and a luminous starfield" />
+  <a href="https://svs.gsfc.nasa.gov/vis/a010000/a013300/a013326/Black_Hole_Accretion_Disk_Sim_1080.mp4">
+    <img src="assets/black-hole-video-preview.gif" width="720" alt="NASA animation of a black hole and glowing accretion disk; select to open the high-resolution video" />
   </a>
 </p>
 <p align="center">
-  <a href="https://svs.gsfc.nasa.gov/vis/a010000/a013300/a013326/BH_AccretionDisk_Sim_Stationary_WebSize.mp4">▶ Watch the black hole loop</a>
+  <a href="https://svs.gsfc.nasa.gov/vis/a010000/a013300/a013326/Black_Hole_Accretion_Disk_Sim_1080.mp4">▶ Watch the high-resolution black hole video</a>
   · <a href="https://svs.gsfc.nasa.gov/13326/">NASA visualization &amp; credits</a>
 </p>
 
@@ -57,5 +57,5 @@ Aspiring Full Stack & Web3 developer from India, currently pursuing B.Tech in Co
 <p align="center">✦ &nbsp; · &nbsp; ✧ &nbsp; · &nbsp; ✦</p>
 
 <p align="center">
-  <sub>Banner: AI-generated space artwork · Linked video: NASA’s Goddard Space Flight Center/Jeremy Schnittman · <a href="https://svs.gsfc.nasa.gov/13326/">Source</a></sub>
+  <sub>Animated black hole: NASA’s Goddard Space Flight Center/Jeremy Schnittman · Full-resolution video: NASA’s Goddard Space Flight Center/Jeremy Schnittman · <a href="https://svs.gsfc.nasa.gov/13326/">Source</a></sub>
 </p>
