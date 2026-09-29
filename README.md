@@ -1,46 +1,61 @@
-# Krishna Gupta
+<h1 align="center">Krishna Gupta</h1>
+<p align="center"><strong>Full Stack &amp; Web3 Developer | UG'28</strong></p>
+<p align="center"><em>Building beyond the event horizon.</em></p>
 
-**Full Stack & Web3 Developer | UG'28**
+<p align="center">
+  <a href="https://svs.gsfc.nasa.gov/vis/a010000/a013300/a013326/BH_AccretionDisk_Sim_Stationary_WebSize.mp4">
+    <img src="assets/black-hole.gif" width="100%" alt="Looping NASA simulation of a black hole surrounded by a glowing orange accretion disk" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://svs.gsfc.nasa.gov/vis/a010000/a013300/a013326/BH_AccretionDisk_Sim_Stationary_WebSize.mp4">▶ Watch the black hole loop</a>
+  · <a href="https://svs.gsfc.nasa.gov/13326/">NASA visualization &amp; credits</a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/krishna-gupta-eng)
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/KRISHNAGUP2006)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:krishnaguptacse@gmail.com)
-
----
-
-## About Me
-Aspiring Full Stack & Web3 developer from India, currently pursuing B.Tech in Computer Science Engineering. I enjoy turning ideas into real products — from building robust backends to exploring decentralized systems. 
-
-
----
-
-## 🛠️ Tech Stack
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=61DAFB)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=prisma&logoColor=white)
-
-![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white)
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+<p align="center">
+  <a href="https://linkedin.com/in/krishna-gupta-eng"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=flat&amp;logo=linkedin&amp;logoColor=FFAD66" alt="LinkedIn" /></a>
+  <a href="https://x.com/KRISHNAGUP2006"><img src="https://img.shields.io/badge/X-161B22?style=flat&amp;logo=x&amp;logoColor=FFAD66" alt="X" /></a>
+  <a href="mailto:krishnaguptacse@gmail.com"><img src="https://img.shields.io/badge/Email-161B22?style=flat&amp;logo=gmail&amp;logoColor=FFAD66" alt="Email Krishna" /></a>
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## Beyond the Event Horizon · About Me
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=krshn0x&theme=dark&hide_border=false)
+Aspiring Full Stack & Web3 developer from India, currently pursuing B.Tech in Computer Science Engineering. I enjoy turning ideas into real products — from building robust backends to exploring decentralized systems.
+
+---
+
+## Mission Toolkit · Tech Stack
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-161B22?style=flat&logo=html5&logoColor=FFAD66) ![JavaScript](https://img.shields.io/badge/JavaScript-161B22?style=flat&logo=javascript&logoColor=FFAD66) ![TypeScript](https://img.shields.io/badge/TypeScript-161B22?style=flat&logo=typescript&logoColor=FFAD66) ![React](https://img.shields.io/badge/React-161B22?style=flat&logo=react&logoColor=FFAD66) ![Next.js](https://img.shields.io/badge/Next.js-161B22?style=flat&logo=next.js&logoColor=FFAD66)
+
+**Backend & Databases**
+
+![Node.js](https://img.shields.io/badge/Node.js-161B22?style=flat&logo=node.js&logoColor=FFAD66) ![Express.js](https://img.shields.io/badge/Express.js-161B22?style=flat&logo=express&logoColor=FFAD66) ![NestJS](https://img.shields.io/badge/NestJS-161B22?style=flat&logo=nestjs&logoColor=FFAD66) ![JWT](https://img.shields.io/badge/JWT-161B22?style=flat&logo=jsonwebtokens&logoColor=FFAD66) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161B22?style=flat&logo=postgresql&logoColor=FFAD66) ![MySQL](https://img.shields.io/badge/MySQL-161B22?style=flat&logo=mysql&logoColor=FFAD66) ![MongoDB](https://img.shields.io/badge/MongoDB-161B22?style=flat&logo=mongodb&logoColor=FFAD66) ![Prisma](https://img.shields.io/badge/Prisma-161B22?style=flat&logo=prisma&logoColor=FFAD66)
+
+**Infrastructure & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-161B22?style=flat&logo=docker&logoColor=FFAD66) ![AWS](https://img.shields.io/badge/AWS-161B22?style=flat&logo=amazon-aws&logoColor=FFAD66) ![Postman](https://img.shields.io/badge/Postman-161B22?style=flat&logo=postman&logoColor=FFAD66) ![Bash](https://img.shields.io/badge/Bash-161B22?style=flat&logo=gnu-bash&logoColor=FFAD66)
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-161B22?style=flat&logo=python&logoColor=FFAD66) ![Rust](https://img.shields.io/badge/Rust-161B22?style=flat&logo=rust&logoColor=FFAD66)
+
+---
+
+## Signals · GitHub Activity
+
+<p align="center">
+  <a href="https://github.com/krshn0x">
+    <img src="https://streak-stats.demolab.com/?user=krshn0x&amp;theme=dark&amp;hide_border=true&amp;background=0D1117&amp;ring=FFAD66&amp;fire=FFAD66&amp;currStreakLabel=FFAD66&amp;disable_animations=true" width="495" alt="Krishna's GitHub contribution streak" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <sub>Black hole visualization: NASA’s Goddard Space Flight Center/Jeremy Schnittman · <a href="https://svs.gsfc.nasa.gov/13326/">Source</a></sub>
+</p>
