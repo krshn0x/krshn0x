@@ -35,7 +35,7 @@ Aspiring Full Stack & Web3 developer from India, currently pursuing B.Tech in Co
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-191B35?style=flat&logo=python&logoColor=A5B4FC) ![Rust](https://img.shields.io/badge/Rust-191B35?style=flat&logo=rust&logoColor=A5B4FC)
+ ![Rust](https://img.shields.io/badge/Rust-191B35?style=flat&logo=rust&logoColor=A5B4FC)
 
 <p align="center">✦ &nbsp; · &nbsp; ✧ &nbsp; · &nbsp; ✦</p>
 
