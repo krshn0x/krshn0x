@@ -2,15 +2,8 @@
 <p align="center"><strong>Full Stack &amp; Web3 Developer | UG'28</strong></p>
 <p align="center"><em>Building beyond the event horizon.</em></p>
 
-<p align="center">
-  <a href="https://svs.gsfc.nasa.gov/vis/a010000/a013300/a013326/Black_Hole_Accretion_Disk_Sim_1080.mp4">
-    <img src="assets/black-hole-video-preview.gif" width="720" alt="NASA animation of a black hole and glowing accretion disk; select to open the high-resolution video" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://svs.gsfc.nasa.gov/vis/a010000/a013300/a013326/Black_Hole_Accretion_Disk_Sim_1080.mp4">▶ Watch the high-resolution black hole video</a>
-  · <a href="https://svs.gsfc.nasa.gov/13326/">NASA visualization &amp; credits</a>
-</p>
+
+
 
 <p align="center">
   <a href="https://linkedin.com/in/krishna-gupta-eng"><img src="https://img.shields.io/badge/LinkedIn-191B35?style=flat&amp;logo=linkedin&amp;logoColor=A5B4FC" alt="LinkedIn" /></a>
