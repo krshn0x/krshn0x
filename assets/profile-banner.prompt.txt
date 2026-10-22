@@ -1,0 +1,3 @@
+Generated with the built-in imagegen tool.
+
+Use case: stylized-concept. Asset type: professional GitHub profile README header background banner. Create a refined, understated cinematic space illustration inspired by a black hole accretion disk: deep midnight navy backdrop, subtle stars, a luminous slender orbital arc in muted cyan and warm ivory, restrained violet atmospheric glow. Wide panoramic composition, approximately 3:1 aspect ratio, ideally 1800x600. Balanced negative space, elegant and quiet, suitable for a software developer's professional profile. No text, letters, logos, watermarks, interface elements, or frames. The entire image should be the banner, edge to edge.
