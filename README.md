@@ -3,7 +3,12 @@
 <p align="center"><em>Building beyond the event horizon.</em></p>
 
 <p align="center">
-  <img src="assets/profile-banner.png" width="800" alt="Panoramic black hole with a luminous accretion disk against a deep navy star field" />
+  <a href="https://esahubble.org/images/heic2501a/">
+    <img src="assets/andromeda-hubble.jpg" width="800" alt="Hubble Space Telescope panorama of the Andromeda Galaxy, showing its bright core, dust lanes, and blue outer disk" />
+  </a>
+</p>
+<p align="center">
+  <sub>Andromeda Galaxy · Credit: NASA, ESA, B. Williams (University of Washington) · <a href="https://esahubble.org/images/heic2501a/">Source</a> · <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></sub>
 </p>
 
 <p align="center">
