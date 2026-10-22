@@ -20,7 +20,7 @@ Full Stack & Web3 developer based in India, pursuing a B.Tech in Computer Scienc
 
 **Frontend**
 
-![HTML5](https://img.shields.io/badge/HTML5-191B35?style=flat&logo=html5&logoColor=A5B4FC) ![JavaScript](https://img.shields.io/badge/JavaScript-191B35?style=flat&logo=javascript&logoColor=A5B4FC) ![TypeScript](https://img.shields.io/badge/TypeScript-191B35?style=flat&logo=typescript&logoColor=A5B4FC) ![React](https://img.shields.io/badge/React-191B35?style=flat&logo=react&logoColor=A5B4FC) ![Next.js](https://img.shields.io/badge/Next.js-191B35?style=flat&logo=next.js&logoColor=A5B4FC)
+![HTML5](https://img.shields.io/badge/HTML5-191B35?style=flat&logo=html5&logoColor=A5B4FC) ![React](https://img.shields.io/badge/React-191B35?style=flat&logo=react&logoColor=A5B4FC) ![Next.js](https://img.shields.io/badge/Next.js-191B35?style=flat&logo=next.js&logoColor=A5B4FC)
 
 **Backend & Databases**
 
@@ -32,7 +32,7 @@ Full Stack & Web3 developer based in India, pursuing a B.Tech in Computer Scienc
 
 **Languages**
 
-![Rust](https://img.shields.io/badge/Rust-191B35?style=flat&logo=rust&logoColor=A5B4FC)
+![TypeScript](https://img.shields.io/badge/TypeScript-191B35?style=flat&logo=typescript&logoColor=A5B4FC) ![Rust](https://img.shields.io/badge/Rust-191B35?style=flat&logo=rust&logoColor=A5B4FC)
 
 <p align="center">✦ &nbsp; · &nbsp; ✧ &nbsp; · &nbsp; ✦</p>
 
