@@ -1,15 +1,6 @@
 <h1 align="center">Krishna Gupta</h1>
 <p align="center"><strong>Full Stack &amp; Web3 Developer | UG'28</strong></p>
-<p align="center"><em>Building beyond the event horizon.</em></p>
 
-<p align="center">
-  <a href="https://esahubble.org/images/heic2501a/">
-    <img src="assets/andromeda-hubble.jpg" width="800" alt="Hubble Space Telescope panorama of the Andromeda Galaxy, showing its bright core, dust lanes, and blue outer disk" />
-  </a>
-</p>
-<p align="center">
-  <sub>Andromeda Galaxy · Credit: NASA, ESA, B. Williams (University of Washington) · <a href="https://esahubble.org/images/heic2501a/">Source</a> · <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></sub>
-</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/krishna-gupta-eng"><img src="https://img.shields.io/badge/LinkedIn-191B35?style=flat&amp;logo=linkedin&amp;logoColor=A5B4FC" alt="LinkedIn" /></a>
@@ -19,13 +10,13 @@
 
 <p align="center">✦ &nbsp; · &nbsp; ✧ &nbsp; · &nbsp; ✦</p>
 
-## Beyond the Event Horizon · About Me
+## About Me
 
 Full Stack & Web3 developer based in India, pursuing a B.Tech in Computer Science Engineering. I build web applications and backend services while exploring decentralized systems.
 
 <p align="center">✦ &nbsp; · &nbsp; ✧ &nbsp; · &nbsp; ✦</p>
 
-## Mission Toolkit · Tech Stack
+## Tech Stack
 
 **Frontend**
 
@@ -45,7 +36,7 @@ Full Stack & Web3 developer based in India, pursuing a B.Tech in Computer Scienc
 
 <p align="center">✦ &nbsp; · &nbsp; ✧ &nbsp; · &nbsp; ✦</p>
 
-## Signals · GitHub Activity
+## GitHub Activity
 
 <p align="center">
   <a href="https://github.com/krshn0x">
